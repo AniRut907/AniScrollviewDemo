@@ -22,7 +22,7 @@ pod 'AniScrollviewDemo'
 
 ## Author
 
-AniRut907, Aniket.Lokhande@extentia.com
+AniRut907, AniRut907@gmail.com
 
 ## License
 
