@@ -1,0 +1,27 @@
+PODS:
+  - AniScrollviewDemo (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - AniScrollviewDemo (from `../`)
+  - FBSnapshotTestCase (~> 2.1.4)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  AniScrollviewDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AniScrollviewDemo: 993680ea27fd48a37b8bfd9f48de11cbc07ff095
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 9cef86ea9e7bedca53035cb55ce876919eacbc8c
+
+COCOAPODS: 1.10.1
